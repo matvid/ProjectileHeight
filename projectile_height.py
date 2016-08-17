@@ -1,6 +1,6 @@
 import math
 import time
-print("*/*/*/*/*/*/*/*/me*/*/*/*/*/*/*/*")
+print("*/*/*/*/*/*/*/*/matvid*/*/*/*/*/*/*/*")
 time.sleep(5)
 a=float(input("weight in grams of the projectile : "))
 b=float(input("speed in m/s of the projectile: "))
